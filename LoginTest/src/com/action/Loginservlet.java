@@ -13,5 +13,6 @@ public class Loginservlet extends HttpServlet
 protected void doPost(HttpServletRequest req, HttpServletResponse resp)
 		throws ServletException, IOException {
 	System.out.println("welcome to loginServlet");
+	System.out.println("=========================");
 }
 }
